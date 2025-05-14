@@ -4,7 +4,7 @@
 
 [English](english.md) - Department chair: jlough27
 
-[Economics](economics.md) - Department chair: <github username> 
+[Economics](economics.md) - Department chair: cs55git
 
 [Geography](geography.md) - Department chair: SamY2027
 
